@@ -1,0 +1,2 @@
+F:\MyCode\MyFirstNodejs\MyFirstNodejs\obj\Debug\MyFirstNodejs.njsprojResolveAssemblyReference.cache
+F:\MyCode\MyFirstNodejs\MyFirstNodejs\bin\Microsoft.NodejsTools.WebRole.dll
